@@ -25,6 +25,10 @@ p {
     color: hsl(229, 6%, 66%);
 }
 
+h2 {
+    font-size: 20px;
+}
+
 /* section */
 section {
     align-items: center;
